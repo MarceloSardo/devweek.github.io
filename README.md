@@ -1,2 +1,2 @@
 # devweek.github.io
-Jornada Dev
+Curriculo jornada Dev
