@@ -21,6 +21,7 @@ body {
 .left-section {
     height: 100%;
     background-color: #010221;
+
 }
 
 .right-section {
@@ -101,7 +102,6 @@ body {
     padding-right: 1rem;
     font-size: 18px;
     color: #C43302;
-    
 }
 
 .skills ul {
